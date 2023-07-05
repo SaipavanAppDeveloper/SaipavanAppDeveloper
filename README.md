@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saipavan
 - 👀 I’m interested in Mobile Application Devlopment
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
