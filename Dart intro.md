@@ -1,6 +1,3 @@
-dart.md
-
-
 # Dart
 ![dart image](https://cdn.hashnode.com/res/hashnode/image/upload/v1677932600835/8cb56ecf-93be-4615-b1b5-70d100c4247a.png?w%253D1600%2526h%253D840%2526fit%253Dcrop%2526crop%253Dentropy%2526auto%253Dcompress%252Cformat%2526format%253Dwebp)
 ## Topics to learn
@@ -30,14 +27,14 @@ Dart is an open-source, general-purpose programming language developed by Google
 Dart is a compiled language, which means that your code is converted to machine code before it is executed. This results in faster performance than interpreted languages like JavaScript. It is a strongly typed language, which means that the types of variables and expressions are checked at compile time. This helps to prevent errors and makes your code more reliable.
 
 ## When to use Dart Language?
-1.If you are building a mobile or web app that needs to be fast and responsive.
-2.If you are building a server application that needs to be scalable and reliable.
+1. If you are building a mobile or web app that needs to be fast and responsive.
+2. If you are building a server application that needs to be scalable and reliable.
 
 ## How to use Dart language?
-1.You can use Dart to build mobile applications using the  Flutter framework.
-2.You can use Dart to build web applications using the AngularDart framework.
-3.You can use Dart to build server applications using the Firebase SDK.
-4.You can use Dart to build desktop applications using the Skia graphics library.
+1. You can use Dart to build mobile applications using the  Flutter framework.
+2. You can use Dart to build web applications using the AngularDart framework.
+3. You can use Dart to build server applications using the Firebase SDK.
+4. You can use Dart to build desktop applications using the Skia graphics library.
 # Dartpad
 ## Online Dart editor
 [https://dartpad.dev/?]
